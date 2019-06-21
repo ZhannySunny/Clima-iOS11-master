@@ -44,7 +44,8 @@ Copyright © The App Brewery
 
 Screenshots from running the app on IPhone 
 
-![IMG_7294](https://user-images.githubusercontent.com/17294536/59944022-8dad0b00-9485-11e9-8035-f0aa0e356a49.PNG)
-![IMG_7293](https://user-images.githubusercontent.com/17294536/59944023-8dad0b00-9485-11e9-8d16-aa10db0a852e.PNG)
 ![IMG_7292](https://user-images.githubusercontent.com/17294536/59944024-8dad0b00-9485-11e9-8d2b-de643ca3463c.PNG)
+![IMG_7293](https://user-images.githubusercontent.com/17294536/59944023-8dad0b00-9485-11e9-8d16-aa10db0a852e.PNG)
+![IMG_7294](https://user-images.githubusercontent.com/17294536/59944022-8dad0b00-9485-11e9-8035-f0aa0e356a49.PNG)
+
 
